@@ -13,4 +13,7 @@
 
 | Test ID (for LED)| Description | Input | Expected output | Actual Output | passed/not |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 
+| 1 | Check for ALLLED_ON() | PRESS BUTTON | ALL LED ON | ALL LED ON | ✅ | 
+| 2 | Check for ALLLED_OFF() | PRESS BUTTON | ALL LED OFF | ALL LED OFF |  ✅  |  
+|  3 | Check for LEDCW_ON() | PRESS BUTTON | Clockwise rotation led on | clockwise rotation led on | ✅ | 
+| 4 |  Check for LEDACW_ON() | PRESS BUTTON | Anticlockwise rotation on | anticlockwise rotation on |  ✅ | 
