@@ -78,6 +78,9 @@
 
 
 
+
+
+
 # Behaviour Diagrams
 # High Level Behaviour Diagram
 ![](https://github.com/naveenreddiedodla/M3_grpno.48/blob/304092b0c7c809ee8a4526507aaa6cdc6adbfcf7/BiCom_System/2_Architecture/Bicom%20High%20level%20Behavioural%20Diagram.png)
@@ -90,3 +93,14 @@
 ![](https://github.com/naveenreddiedodla/M3_grpno.48/blob/d6fe8628df0fc1d1d5cda35393926c783eba5b7a/BiCom_System/2_Architecture/High%20Level%20structural%20diagram%20Bicom.png)
 # Low Level Structural Diagrams
 ![](https://github.com/naveenreddiedodla/M3_grpno.48/blob/d6fe8628df0fc1d1d5cda35393926c783eba5b7a/BiCom_System/2_Architecture/Low%20Level%20structural%20diagram%20Bicom.png)
+
+
+
+## TESTPLAN
+
+|ID| Description | input | expected Output | actual output
+|--|--|--|--|--|
+|1| Window status | Press Blue switch | All LEDs on at the same time| All LEDs On at the same time|
+|2| Alarm status | Press Blue Switch twice | All LEDs OFF at the same time | All LEDs OFF at the same time|
+|3| Battery info | Press Blue switch thrice | All LEDs on in clockwise manner | All LEDs on in clockwise manner | 
+|4| Door status | Press Blue switch Four times | All LEDs on in anti-clockwise manner | All LEDs on in anti-clockwise manner|
