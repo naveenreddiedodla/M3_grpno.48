@@ -48,3 +48,8 @@
 
 # 2 Requirements:
 ## 2.1 High Level Requirements:
+|ID  |	|High Level Requirements|
+|----|  |--------------------|---|-----------------|
+|HLR1|	|System shall display Alarm status of the car|
+|HLR2|	|System shall display Display status of the car|
+|HLR3|	|System shall display Battery status of the car|
