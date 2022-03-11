@@ -2,10 +2,13 @@
 ## 1.1 Description:
 ### This BiCom system is the extention of the unidirectional RKE to bidirectional RKE system. Here the bi-directional communication takes place in between the keyfob and the car. As we have seen the unidirectional in Remote Keyless Entry(RKE), now in BiCom system we will witness bi-directionaL. Information from keyfob to car viceversa. The status of the car will also be displayed on the keyfob by LED or display.
 ## 1.2 Features:
-### It shall display door satus of car for Four User Button Clicks.
-### It shall display alarm satus of car Two User Button Clicks.
-### It shall display window satus of car for one User Button Click.
-### It shall display battery information of car for Three User Button Clicks.
+### It shall activation/deactivation alarm for Three User Button Clicks
+### It shall Lock the car for one User Button Click
+### It shall activate approach light for Four User Button Clicks
+### It shall Unlock the car Two User Button Clicks
+
+
+
 
 ## 1.3 State of art
 ### Battery status of the car is displayed with a button press.
