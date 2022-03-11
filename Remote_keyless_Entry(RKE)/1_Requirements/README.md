@@ -60,3 +60,6 @@ By using a small Radio Transmitter and reciver we will make our project work.
 ## 2.2 Low Level Requirement :
 1. In case of mistouch the doors will be opened .
 
+## APPLICATIONS:
+
+Remote keyless entry systems, now fairly commonplace devices, provide car owners with a degree of convenience, making the task of physically inserting a key unnecessary. A passive keyless entry (PKE) system uses advanced technology to take vehicle accessibility to a higher level.
