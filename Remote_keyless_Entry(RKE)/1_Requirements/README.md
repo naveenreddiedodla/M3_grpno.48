@@ -14,7 +14,10 @@ Transmitter - RKE key fob, other ID device with RKE integrated Receiver-Body Con
 ### It shall Unlock the car Two User Button Clicks.
 
 ## 1.4 State of art
-### The main focus of this project is to operate the car's window , alarm , battery and door. The frequency set in the RKE will be matched with the car as per requirements set in the code. A security code shall be fixed which ensures security to the car. A LCD screen can be seen which displays all the current status of the car. We can further operate the car using this information.By combining all these features a final product is made known as BiCom. As the technology is increasing rapidly these kind of automations are very useful in our daily lives.
+### Alarm system and Approach light are also available with a button press.
+### Buttons shall be provided to ease the access of available features.
+### Lock and Unlock the car with a button press.
+### Hack proof security is provided with encription.
 
 # 1.5 4W 1H
 
