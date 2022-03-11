@@ -39,3 +39,7 @@ To secure you vehicle on parking .
 
 ### HOW
 By using a small Radio Transmitter and reciver we will make our project work.
+
+# 1.5 Swot Analysis:
+## Strengths:
+### No need of human interaction with car. Excellent Safety protocol is used(Encryption). Easy usage of features with a user press button
