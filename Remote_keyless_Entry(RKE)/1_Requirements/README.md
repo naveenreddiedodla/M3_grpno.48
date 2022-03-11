@@ -7,18 +7,16 @@
 Transmitter - RKE key fob, other ID device with RKE integrated Receiver-Body Control ECU, other ECU with integrated RKE
 #### 2.RKE operates by broadcasting radio waves on a particular frequency
 
-1.3 Identifying features
-It shall activate approach light for Four User Button Clicks
-It shall Unlock the car Two User Button Clicks
-It shall Lock the car for one User Button Click
-It shall activation/deactivation alarm for Three User Button Clicks
+## 1.3 Features
+### LCD display should be provided on the keyfob to display the car's status.
+### High security is provided to unlock the system.
+### It shall print the car's window status on LCD (Blue switch on - All led on at the same time)
+### It shall print the car's alarm status on LCD (Blue switch press two times - All led off at the same time)
+### It shall print the car's battery information on LCD (Blue switch press three times - All led on in clockwise manner)
+### It shall print the car's door status on LCD (Blue switch press four times - All led on in clockwise manner)
 
 ## 1.4 State of art
-### Alarm system and Approach light are also available with a button press.
-### Buttons shall be provided to ease the access of available features.
-### Lock and Unlock the car with a button press.
-
-### Hack proof security is provided with encription.
+### The main focus of this project is to operate the car's window , alarm , battery and door. The frequency set in the RKE will be matched with the car as per requirements set in the code. A security code shall be fixed which ensures security to the car. A LCD screen can be seen which displays all the current status of the car. We can further operate the car using this information.By combining all these features a final product is made known as BiCom. As the technology is increasing rapidly these kind of automations are very useful in our daily lives.
 
 # 1.4 4W 1H
 
