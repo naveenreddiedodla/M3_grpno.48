@@ -8,3 +8,5 @@
 ## 2.Requirements
 ### i.High level requirements
 ### ii.Low level requirements
+## 3.Design
+### i.Behaviour Diagram
