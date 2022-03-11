@@ -32,15 +32,15 @@
 
 ## Strengths:
 
-### No need of human interaction with car *Car Status with different features is provided. "Easy usage of features with a user press button.
+### No need of human interaction with car Status with different features is provided. "Easy usage of features with a user press button.
 
 ## Weaknesses:
 
-### Limited Usage Range "Less security to our system "Interrupts or Timers would be good instead of delay so system works faster.
+### Limited Usage Range Less security to our system Interrupts or Timers would be good instead of delay so system works faster.
 
 ## Opportunities:
 
-### Wide scope in field of automobiles "Cost Efficient *Car features are tremendous which increases car value.
+### Wide scope in field of automobiles Cost Efficient Car features are tremendous which increases car value.
 
 ## Threats:
 
