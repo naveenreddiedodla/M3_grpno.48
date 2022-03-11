@@ -7,6 +7,19 @@
 Transmitter - RKE key fob, other ID device with RKE integrated Receiver-Body Control ECU, other ECU with integrated RKE
 #### 2.RKE operates by broadcasting radio waves on a particular frequency
 
+1.3 Identifying features
+It shall activate approach light for Four User Button Clicks
+It shall Unlock the car Two User Button Clicks
+It shall Lock the car for one User Button Click
+It shall activation/deactivation alarm for Three User Button Clicks
+
+## 1.4 State of art
+### Alarm system and Approach light are also available with a button press.
+### Buttons shall be provided to ease the access of available features.
+### Lock and Unlock the car with a button press.
+
+### Hack proof security is provided with encription.
+
 # 1.4 4W 1H
 
 
