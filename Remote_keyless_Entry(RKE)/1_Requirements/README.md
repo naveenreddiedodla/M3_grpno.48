@@ -18,7 +18,7 @@ Transmitter - RKE key fob, other ID device with RKE integrated Receiver-Body Con
 ## 1.4 State of art
 ### The main focus of this project is to operate the car's window , alarm , battery and door. The frequency set in the RKE will be matched with the car as per requirements set in the code. A security code shall be fixed which ensures security to the car. A LCD screen can be seen which displays all the current status of the car. We can further operate the car using this information.By combining all these features a final product is made known as BiCom. As the technology is increasing rapidly these kind of automations are very useful in our daily lives.
 
-# 1.4 4W 1H
+# 1.5 4W 1H
 
 
 ### WHY
@@ -40,7 +40,7 @@ To secure you vehicle on parking .
 ### HOW
 By using a small Radio Transmitter and reciver we will make our project work.
 
-# 1.5 Swot Analysis:
+# 1.6 Swot Analysis:
 ## Strengths:
 ### No need of human interaction with car. Excellent Safety protocol is used(Encryption). Easy usage of features with a user press button
 ## Weaknesses:
@@ -49,4 +49,7 @@ By using a small Radio Transmitter and reciver we will make our project work.
 ### Wide scope in field of automobiles. *Cost Efficient. *Car Safety is assured helps in increase in demand.
 ## Threats:
 ### Less accurate timing We should wait until completion of a task to run an other task.
+
+# 2 Requirements:
+## 2.1 High Level Requirements:
 
