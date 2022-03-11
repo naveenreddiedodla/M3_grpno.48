@@ -40,6 +40,14 @@ Transmitter - RKE key fob, other ID device with RKE integrated Receiver-Body Con
 ## HOW
 ### By using a small Radio Transmitter and reciver we will make our project work.
 
+# 2.Requirements
+## 2.1 High Level Requirements
+|ID	High Level Requirements
+|HLR1|	System shall be provided with Approach Light
+|HLR2|	System shall be provided with wireless Alarm activation and Deactivation
+|HLR3|	System shall be made as Hack proof
+|HLR4|	 System shall be provided with wireless Lock and Unlock system
+
 
 
 
