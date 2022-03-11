@@ -43,3 +43,10 @@ By using a small Radio Transmitter and reciver we will make our project work.
 # 1.5 Swot Analysis:
 ## Strengths:
 ### No need of human interaction with car. Excellent Safety protocol is used(Encryption). Easy usage of features with a user press button
+## Weaknesses:
+### Limited Usage Range *Not able to see the status of the car "Interrupts or Timers would be good instead of delay.
+## Opportunities:
+### Wide scope in field of automobiles. *Cost Efficient. *Car Safety is assured helps in increase in demand.
+## Threats:
+### Less accurate timing We should wait until completion of a task to run an other task.
+
