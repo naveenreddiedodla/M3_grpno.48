@@ -45,3 +45,6 @@
 ## Threats:
 
 ### Less accurate timing We should wait until completion of a task to run an other task.
+
+# 2 Requirements:
+## 2.1 High Level Requirements:
